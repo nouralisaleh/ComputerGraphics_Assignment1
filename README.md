@@ -2,3 +2,5 @@ to run this code without errors you have to include the following openGL Librari
 glfw
 sfml
 glm
+glew
+rapidjson
