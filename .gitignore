@@ -1,0 +1,12 @@
+# ComputerGraphics_Assignment1 
+
+.vs/
+*.user
+*.suo
+*.log
+
+*.dll
+
+/build/
+
+.git/
